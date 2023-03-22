@@ -1,0 +1,11 @@
+Model Information:
+* title:	South Korea
+* source:	https://sketchfab.com/3d-models/south-korea-cd7bd66fe1fd48cd967f7e712c895245
+* author:	Space XR Academy (https://sketchfab.com/SpaceXRAcademy)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "South Korea" (https://sketchfab.com/3d-models/south-korea-cd7bd66fe1fd48cd967f7e712c895245) by Space XR Academy (https://sketchfab.com/SpaceXRAcademy) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

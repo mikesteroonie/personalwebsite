@@ -1,0 +1,11 @@
+Model Information:
+* title:	Gula's CN Tower
+* source:	https://sketchfab.com/3d-models/gulas-cn-tower-36b4f641d3e74d77918770adac8e2f6a
+* author:	gula (https://sketchfab.com/gula)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Gula's CN Tower" (https://sketchfab.com/3d-models/gulas-cn-tower-36b4f641d3e74d77918770adac8e2f6a) by gula (https://sketchfab.com/gula) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
