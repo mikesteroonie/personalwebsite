@@ -146,7 +146,7 @@ const experiences = [
     points: [
       "Co-founded on-campus delivery service that provides grocery items at up to 19 % cheaper prices than traditional delivery services such as UberEats and InstaCart, operating on an order early, group order model.",
       "Gamefies the grocery shopping experience, by notifying customers in real time that their grocery price just went down due to high order demand within their vicinity.",
-      "In development of app MVP, and selected to compete in exclusive hackathon in partnership with Contrary Capital, receiving funds of $50K+ in Stripe, AWS, etc. credits, gaining investor eyes from the likes of AIPI Solutions NYC.",
+      "In development of app MVP, and selected to compete in exclusive hackathon in partnership with Contrary Capital, receiving funds of $50K+ in Stripe, AWS, etc. credits",
       "Landing page: www.mygrocereats.com",
     ],
   },
