@@ -244,15 +244,15 @@ const projects = [
       "Python script that performs customized semantic search on artist Drake discography based on query to look for lyrics with similar sentiment. Made as a means for more fun communication between friends.",
     tags: [
       {
-        name: "react",
+        name: "python",
         color: "blue-text-gradient",
       },
       {
-        name: "RESTAPI",
+        name: "cohere",
         color: "green-text-gradient",
       },
       {
-        name: "MERN Stack",
+        name: "AI/ML",
         color: "pink-text-gradient",
       },
     ],
