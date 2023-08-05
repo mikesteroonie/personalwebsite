@@ -23,6 +23,8 @@ import threejs from "./tech/threejs.svg";
 import ae from "./tech/ae.png";
 import premierepro from "./tech/premierepro.png";
 import ex from "./tech/ex.png";
+import python from "./tech/python.png";
+import c from "./tech/c++.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -32,7 +34,9 @@ import tesla from "./company/tesla.png";
 import kis from "./company/kis.png";
 import michigan from "./company/BlockM.png";
 import grocereats from "./company/GE.png";
-import tour from "./company/Tour.png";
+import orca from "./company/orca.png";
+import soma from "./company/soma.png";
+import buildspace from "./company/buildspace.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -44,6 +48,7 @@ import comingsoon from "./comingsoon.png";
 
 import introThumb from "./introThumb.png";
 import koreaThumb from "./koreaThumb.jpg";
+import cohere from "./cohere.png";
 
 export {
   logo,
@@ -80,11 +85,15 @@ export {
   kis,
   michigan,
   grocereats,
-  tour,
   introThumb,
   koreaThumb,
   dalle,
   chessy,
   comingsoon,
-
+  orca,
+  soma,
+  buildspace,
+  cohere,
+  python,
+  c,
 };
