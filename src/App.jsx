@@ -15,7 +15,7 @@ import {
 const App = () => {
   return (
     <BrowserRouter>
-      <div className="relative z-0 bg-primary bg-[#002b4a]">
+      <div className="relative z-0 bg-[#002b4a]">
         {/* bg-gradient-to-r from-pink-300 via-purple-300 to-indigo-400 */}
         {/* bg-hero-pattern bg-cover bg-no-repeat bg-center */}
         <div className="">
