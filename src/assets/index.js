@@ -49,6 +49,7 @@ import comingsoon from "./comingsoon.png";
 import introThumb from "./introThumb.png";
 import koreaThumb from "./koreaThumb.jpg";
 import cohere from "./cohere.png";
+import tunetrap from "./icon.png";
 
 export {
   logo,
@@ -96,4 +97,5 @@ export {
   cohere,
   python,
   c,
+  tunetrap,
 };

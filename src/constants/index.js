@@ -40,6 +40,7 @@ import {
   cohere,
   python,
   c,
+  tunetrap,
 } from "../assets";
 
 export const navLinks = [
@@ -218,6 +219,31 @@ const testimonials = [
 
 const projects = [
   {
+    name: "TuneTrap",
+    description:
+      "Next-generation of social media, building a profile not around photos(Instagram), not around text(Twitter), but around MUSIC TASTE.",
+    tags: [
+      {
+        name: "reactnative",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "typescript",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "expo",
+        color: "green-text-gradient",
+      },
+      {
+        name: "supabase",
+        color: "blue-text-gradient",
+      },
+    ],
+    image: tunetrap,
+    source_code_link: "https://github.com/mikesteroonie/tunetrap",
+  },
+  {
     name: "YouTube Thumbnail Generator",
     description:
       "A web application that utilizes the DALL-E 2 API to generate YouTube thumbnails based on a prompt of what your video is about.",
@@ -258,27 +284,6 @@ const projects = [
     ],
     image: cohere,
     source_code_link: "https://github.com/mikesteroonie/lyricsearch",
-  },
-  {
-    name: "Chess Social Media",
-    description:
-      "A full stack web application with full CRUD functionality that allows people to share their favorite chess openings.",
-    tags: [
-      {
-        name: "nextjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "supabase",
-        color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: chessy,
-    source_code_link: "https://github.com/mikesteroonie/chessForum",
   },
 ];
 
