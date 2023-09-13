@@ -147,6 +147,7 @@ const experiences = [
     points: [
       "Co-founded on-campus delivery service that provides grocery items at up to 19 % cheaper prices than traditional delivery services such as UberEats and InstaCart, operating on an order early, group order model.",
       "Gamefies the grocery shopping experience, by notifying customers in real time that their grocery price just went down due to high order demand within their vicinity.",
+      "Fully architected web app, user onboarding flow, and sorting of grocery items based on user preferences utilizing Shopify payment system with Stripe API",
       "In development of app MVP, and selected to compete in exclusive hackathon in partnership with Contrary Capital, receiving funds of $50K+ in Stripe, AWS, etc. credits",
       "Landing page: www.mygrocereats.com",
     ],
@@ -158,10 +159,10 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "July 2023 - Present",
     points: [
-      "Collaborated alongside CTO and synced with advisors such as Head of Product at Instagram to develop network effect flywheel referral feature--worked in React, Go, MySQL, AWS.",
-      "Spearheaded design and fully implemented user dashboard for both startups and investors, ultimately leading to a 22% increased user engagment rate--used by 4000+ startup founders and 80+ investors daily",
-      "Lead multiple SEO optimization endeavors creating sitemaps for individual startup profiles for Google to index, and re-organized startup code base to increase Google Lighthouse scores by 19%, thus hiking introductions between founders and investors by 2400% in 6 weeks",
-      "Fully re-designed and fully re-implemented landing page--performed A/B testing on two iterations where option A would utilize Zapier pipelines to automatically generate a startup profile, thus leading to a 9% increased conversion above the fold as opposed to 6.4% for option B ",
+      "Collaborated with advisors such as VP Product at Instagram to develop referral feature, achieving a 37% boosted sign-on rate, resulting in $1.53 million dollars in term sheet investments",
+      "Pioneered design and fully implemented user dashboard tailored for connecting startups and investors and optimized MySQL querying resulting in a 34% decreased load times and 21% increased user engagment rate–used by 8000+ startup founders and 160+ investors daily",
+      "Deployed and managed containerization of AWS EC2 instances with Kubernetes, enhancing system scalability and performance in 25 di↵erent availability zones across North America",
+      "Spearheaded SEO optimization endeavors creating sitemaps for individual startup profiles optimized for site crawler–reorganized codebase increasing Lighthouse scores by 19%, surging conversion rate by 2400% in 6 weeks",
     ],
   },
   {
