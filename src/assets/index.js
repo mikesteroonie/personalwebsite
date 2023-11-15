@@ -50,6 +50,7 @@ import introThumb from "./introThumb.png";
 import koreaThumb from "./koreaThumb.jpg";
 import cohere from "./cohere.png";
 import tunetrap from "./icon.png";
+import rush from "./rush.png";
 
 export {
   logo,
@@ -98,4 +99,5 @@ export {
   python,
   c,
   tunetrap,
+  rush,
 };

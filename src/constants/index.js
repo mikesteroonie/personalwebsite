@@ -41,6 +41,7 @@ import {
   python,
   c,
   tunetrap,
+  rush,
 } from "../assets";
 
 export const navLinks = [
@@ -132,10 +133,10 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "August 2021 - Present",
     points: [
-      "Enrolled in Honors College with a 3.3/4.0 GPA",
+      "In studies for a Bachelor of Science in Computer Science with an expected graduation of May 2025",
       "Emphatic about building, brainstorming, and actualizing ideas through mediums like cinematography and code.",
       "Activities and Societies:",
-      "Alpha Kappa Psi Professional Business Fraternity, V1 Entrepreneurship, Korean Student Association.",
+      "Alpha Kappa Psi Professional Business Fraternity, V1 Entrepreneurship, Korean Student Association, Film Club.",
     ],
   },
   {
@@ -153,16 +154,16 @@ const experiences = [
     ],
   },
   {
-    title: "The Orca Network - (Venuture-backed by Foundation Capital)",
-    company_name: "Full Stack SWE Developer",
+    title: "The Orca Network - (Venture-backed by Foundation Capital)",
+    company_name: "Full Stack SWE Intern",
     icon: orca,
     iconBg: "#E6DEDD",
-    date: "July 2023 - Present",
+    date: "July 2023 - August 2023",
     points: [
-      "Collaborated with advisors such as VP Product at Instagram to develop referral feature, achieving a 37% boosted sign-on rate, resulting in $1.53 million dollars in term sheet investments",
+      "Collaborated with advisors such as VP Product at Instagram to develop referral feature, achieving a 37% boosted sign-on rate, resulting in $1.05 million dollars in term sheet investments",
       "Pioneered design and fully implemented user dashboard tailored for connecting startups and investors and optimized MySQL querying resulting in a 34% decreased load times and 21% increased user engagment rate–used by 8000+ startup founders and 160+ investors daily",
       "Deployed and managed containerization of AWS EC2 instances with Kubernetes, enhancing system scalability and performance in 25 di↵erent availability zones across North America",
-      "Spearheaded SEO optimization endeavors creating sitemaps for individual startup profiles optimized for site crawler–reorganized codebase increasing Lighthouse scores by 19%, surging conversion rate by 2400% in 6 weeks",
+      "Spearheaded SEO optimization endeavors creating sitemaps for individual startup profiles optimized for site crawler–reorganized codebase increasing Lighthouse scores by 19%, surging conversion rate by 240% in 6 weeks",
     ],
   },
   {
@@ -174,7 +175,7 @@ const experiences = [
     points: [
       "Underwent training alongside Soma Capital analysts to source startups and perform due diligence on a weekly basis given educational materials from the venture firm--done in collaboration alongside Soma Fellow scouts",
       "Collaborating with fellows listening into founder calls with YC F/W 2023 batch and reviewing pitch decks",
-      "Sourcing deals and performing due diligence on weekly basis and having weekly syncs to reconvene and streamline dealflow processes",
+      "Sourcing deals and performing due diligence on weekly basis and engaging in weekly syncs to reconvene and streamline dealflow processes",
     ],
   },
   {
@@ -310,8 +311,8 @@ const videos = [
     source_code_link: "https://youtu.be/HrW3JzemxhQ",
   },
   {
-    name: "Music Video of Trip to Puerto Rico",
-    description: "Tried filming a music video to one of my favorite songs",
+    name: "Business Fraternity Rush Video",
+    description: "Hired to Film + Edit a Rush Video...indulge",
     tags: [
       {
         name: "Premiere Pro",
@@ -326,8 +327,8 @@ const videos = [
         color: "pink-text-gradient",
       },
     ],
-    image: comingsoon,
-    source_code_link: "https://github.com/",
+    image: rush,
+    source_code_link: "https://youtu.be/7CYz2NB4b-8",
   },
   {
     name: "South Korea Vlog",
